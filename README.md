@@ -11,7 +11,6 @@ This project provides an analysis of Amazon product data with a focus on price d
 3. [Analysis and Insights](#analysis-and-insights)
 4. [Key Findings](#key-findings)
 5. [How to Use](#how-to-use)
-6. [Requirements](#requirements)
 
 ---
 
