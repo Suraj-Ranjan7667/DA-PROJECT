@@ -72,19 +72,6 @@ Identified the top-selling products by assuming that products with more customer
 
 ---
 
-## Requirements
-
-- **Python 3.x**
-- **Libraries**:
-  - `pandas`: For data handling and analysis
-
-Install the libraries with:
-```bash
-pip install pandas
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License.
